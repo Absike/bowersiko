@@ -1,4 +1,4 @@
 bowersiko
 =========
 
-bowersiko , my custom bower frontend packages
+bowersiko ,manage front end resources with bower
